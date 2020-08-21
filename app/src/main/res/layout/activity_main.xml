@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="com.example.chenwe.mvp.MainActivity">
+    tools:context="com.example.chenwe.mvp.view.MainActivity">
 
     <LinearLayout
         android:layout_marginTop="20dp"

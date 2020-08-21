@@ -1,4 +1,4 @@
-package com.example.chenwe.mvp;
+package com.example.chenwe.mvp.view;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -10,6 +10,7 @@ import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.example.chenwe.mvp.R;
 import com.example.chenwe.mvp.bean.WeatherData;
 import com.example.chenwe.mvp.contract.WeatherContract;
 import com.example.chenwe.mvp.presenter.framework.WrapperPresenter;
